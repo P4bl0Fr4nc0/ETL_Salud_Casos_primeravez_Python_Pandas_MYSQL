@@ -53,5 +53,5 @@ Más de 51,000 registros procesados correctamente
 Carga exitosa en MySQL en aproximadamente 6 segundos
 ![ETL Terminal](screenshoots/ETL_casos_2.png)
 
-Manejo optimizado de la información mediante queries en MySQL
+Manejo optimizado de la información mediante queries en MySQL, por ejemplo la agrupacion de neoplasias de acuerdo a la clasificacion internacional de Enfermedades ICD-10
 ![Query](screenshoots/QUERY_salud.png)
